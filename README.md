@@ -1,1 +1,2 @@
 # json-file-separate-objects
+During working as an IT Helpdesk at a small tech company in my city, I handled a task which requires reading a large json file (uploaded). The file made it uncomfortable to be used so I wrote this program just in case someone come across my situation. This program should automatically export json objects in that large file into smaller json files so that it would be easier for programmers.
